@@ -1,0 +1,12 @@
+{
+  "name": "tritium",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri",
+    "start": "tauri dev"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.5.8"
+  }
+}
